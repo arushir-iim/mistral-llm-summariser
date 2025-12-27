@@ -5,6 +5,9 @@ This repository contains a Jupyter Notebook that implements a fully local pipeli
 
 The pipeline is designed to handle long documents efficiently while preserving legal reasoning and producing outputs suitable for analysis and social listening.
 
+## Pipeline Diagram
+
+```text
 ┌──────────────────────────┐
 │   Judgment PDF (.pdf)    │
 └─────────────┬────────────┘
@@ -60,6 +63,7 @@ The pipeline is designed to handle long documents efficiently while preserving l
 │ (Social      │  │   Keywords, Summary)   │
 │ Listening)   │  │ - Text files           │
 └──────────────┘  └────────────────────────┘
+
 
 ---
 
