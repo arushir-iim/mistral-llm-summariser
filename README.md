@@ -64,7 +64,7 @@ The pipeline is designed to handle long documents efficiently while preserving l
 │ Listening)   │  │ - Text files           │
 └──────────────┘  └────────────────────────┘
 
-
+```
 ---
 
 ## Overview
